@@ -1,0 +1,250 @@
+
+body
+{
+  background-color: #c5e3f6;
+}
+
+h1
+{
+  margin: 40px auto;
+  display: block;
+}
+
+h2
+{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+hr
+{
+  border-style: dotted;
+ background-color: black;
+ width: 50px;
+ size: 3000px;
+}
+
+/*******************/
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  color: white;
+  overflow: hidden;
+}
+
+
+li a:hover:not(.active) {
+  background-color: #585858;
+/*  color: white;   */
+}
+
+/******************/
+
+/* .hr-contact
+{
+border-style: dotted;
+ background-color: black;
+ width: 500px;
+ size: 3000px;
+} */
+
+/*#############Image Setting###############*/
+
+.engineering
+{
+  position: center;
+  margin: 110px auto 0;
+  display: block;
+  height: 500px;
+}
+.corner_logo
+{
+  width: 100px;
+  height: 50px;
+}
+
+.fade_image
+{
+  width: 50%;
+  height: 25%;
+}
+.fade_image_first
+{
+  width: 50%;
+  height: 5%;
+}
+
+  .Officers_Picture
+  {
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+    margin-left: 30px;
+    border-radius: 100%;
+    /* position: relative;
+    bottom: 30px; */
+  }
+
+  .Officers_Picture2
+  {
+    width: 25%;
+    float: right;
+    margin-right: 50px;
+    margin-left: 30px;
+    border-radius: 100%;
+  }
+
+  .Officers_Picture3
+  {
+    width: 25%;
+    float: left;
+    margin-right: 50px;
+    margin-left: 30px;
+    border-radius: 100%;
+  }
+/* ###############TaskBar############### */
+.navigation-section
+{
+  color: black;
+}
+#taskbar
+{
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index:100;
+  opacity:95%;
+}
+
+
+/* ############Slide-Show############## */
+.slide_show
+{
+  height:320px;
+  width: 500px;
+  position:relative;
+  left: 400px;
+}
+
+
+.skill-row
+{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.text-officer
+{
+
+}
+
+#welcome{
+  background-color: #c5e3f6;
+  position: center;
+}
+
+#events{
+  background-color: #c5e3f6;
+  height: 940px;
+}
+/* ###############Testimonials############### */
+#testimonial
+{
+  padding: 7% 15%;
+  text-align: center;
+  height:50%;
+  width: auto;
+  background-color: pink;
+  0right: 0;
+}
+
+#quote1{
+  height: 400px;
+}
+
+#quote2{
+  height: 400px;
+}
+
+.quote-image
+{
+  width: 10%;
+  height: 30%;
+  border-radius: 100%;
+}
+
+/*############Card testimonials############### */
+
+.card-size
+{
+  margin: 15px 10px 40px 10rem;
+  width: 18rem;
+  display: inline-block;
+}
+.card-styles
+{
+  margin: auto 10px 40px 10rem;
+  width: 18rem;
+  display: inline-block;
+}
+.card_body
+{
+  background-color: #dff6f0;
+}
+
+.contact-styles
+{
+  margin: auto;
+  position: relative;
+  /* left: 5rem; */
+  width: 35rem;
+}
+/*##########CONTACT FOOTER################## */
+
+.icon
+{
+  margin: 40px 10px;
+}
+
+.icon:hover
+{
+  color: yellow;
+}
+
+
+.item {
+  width: 200px;
+  height: 200px;
+  margin: 50px auto;
+  padding-top: 75px;
+  background: #ccc;
+  text-align: center;
+  color: #FFF;
+  font-size: 3em;
+}
+
+.image_position
+{
+  display: block;
+  margin: 40px auto 20px;
+}
+.League_of_stem_card
+{
+  display: block;
+  position: relative;
+  margin: 20px auto;
+}
+/* .form_class
+{
+  margin: 40px auto 40px;
+  display: block;
+  width: 50%;
+} */
